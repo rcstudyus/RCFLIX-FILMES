@@ -1,12 +1,14 @@
 #EXTM3U
 
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/2DZNrQY" group-title="Desenhos", 01-A Noite do Gargula
 https://drive.google.com/file/d/0B6T0wmQZ3SBgMTNXLVB2MTRDdGs/view
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DZNrQY" group-title="Desenhos", 02-A Pedra dos Desejos
 https://drive.google.com/file/d/0B6T0wmQZ3SBgTWVyU0J0NnhWRVU/view
+
+#EXTINF:-1 tvg-logo="https://bit.ly/2DZNrQY" group-title="Desenhos", teste torrent
+magnet:?xt=urn:btih:31bf8821075fabba59f28cffeef600e4ea41ae87&dn
 
 #EXTINF:-1 tvg-logo="https://bit.ly/2DZNrQY" group-title="Desenhos", 03-Adivinha quem vem a festinha
 plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B6T0wmQZ3SBgM29ac2Y0azJaSmM/view
